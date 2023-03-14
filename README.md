@@ -1,3 +1,3 @@
 # CybotaLottie
-Lottie animation for Cybota logo
+Lottie animation for Cybota logo<br/>
 Lottie intergrated into HTML webpage
